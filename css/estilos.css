@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+
+.perfil{
+    background-color:blue;
+    width: 20rem;
+    padding: 2rem;
+    margin: 10rem;
+    text-align: center;
+}
+
+.perfil img{
+    border-radius: 100%;
+    border:8px solid #ffffff;
+    width: 20rem;
+}
+
+.pefil p{
+    text-align: justify;
+}
