@@ -1,0 +1,46 @@
+body{
+    background-color: hsl(216, 88%, 49%);
+}
+
+#logo{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    float: left;
+}
+
+#logo img{
+    float: left;
+    width: 20rem;
+
+}
+.barra_de_navegacion{
+    float: right;
+    margin-top: 1rem;
+    margin-right: 15px;
+    font-size: 12px;
+    text-decoration: none;
+    color:white;
+}
+#imagen {
+    margin-top: 5rem;
+    float: right;
+}
+
+#imagen img{
+    width: 40rem;
+}
+
+.parrafos{
+    float:left;
+    margin-top: 10rem;
+    margin-left: 2rem;
+    text-align: left;
+    font-size: 20px;
+    color:white;
+    font-family:'Times New Roman'
+}
+
+#negrilla{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
