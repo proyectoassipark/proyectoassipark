@@ -1,0 +1,63 @@
+#home{
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+
+#parqueaderos {
+    background: linear-gradient(to right, #000000 25%, #4e0e83 60%);
+}
+#barra_de_navegacion{
+    margin-top: 0%;
+    margin-left: 0%;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    text-align: left;
+}
+.nav li a{
+    background-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    padding: 0px 140px;
+    padding-left: 10px;
+    display: block;
+    font-size: 22px;
+}
+.nav li a:hover{
+    background-color: #160f1d;
+}
+.nav li ul{
+    display: none;
+    position:relative;
+    min-width: 140px;
+}
+.nav li:hover > ul{
+    display:block;
+}
+.titulo {
+    font-size: 300%;
+    font-family: sans-serif;
+    margin-top: 50px;
+    color:rgb(255, 255, 255);
+    width:min-content;
+
+}
+
+#barra{
+    float: left;
+    width:min-content;
+    height: min-content;
+}
+
+
+.img {
+    float: right;
+    margin-right: 100px;
+    margin-top: 5%;
+    size: 100%;
+
+}
+.img img{
+    width: 100%
+}

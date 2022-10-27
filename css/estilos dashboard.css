@@ -3,45 +3,51 @@ body{
 }
 
 #logo{
-    margin-top: 1rem;
-    margin-left: 1rem;
-    float: left;
+    margin: 2rem;
+    margin-top: 2rem;
 }
 
 #logo img{
-    float: left;
-    width: 13rem;
+    width: 30%;
 
 }
 .barra_de_navegacion{
     float: right;
     margin-top: 20px;
-    margin-right: 10px;
-    font-size: 9px;
+    margin-right: 20px;
+    font-size: 12PX;
     font-family: sans-serif;
     text-decoration: none;
     color:white;
 }
 #imagen {
-    margin-top: 15rem;
     float: right;
+    margin: 6%;
+    margin-top: 5%;
 }
 
 #imagen img{
-    width: 30rem;
+    width: 100%;
 }
 
 .parrafos{
     float:left;
-    margin-top: 10rem;
+    margin-top: 12%;
     margin-left: 2rem;
     text-align: left;
-    font-size: 15px;
+    font-size: 25px;
     color:white;
     font-family:'Times New Roman'
 }
 
-#negrilla{
-    font-size: 35px;
+.negrilla{
+    font-size: 120%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#pfunciones{
+    text-align: center;
+    margin: 25%;
+    margin-top: 100px;
+}
+
