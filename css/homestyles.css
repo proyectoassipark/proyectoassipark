@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 #home{
     background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
 }
@@ -20,7 +24,7 @@
     color: #fff;
     text-decoration: none;
     padding: 0px 140px;
-    padding-left: 10px;
+    padding-left: 50px;
     display: block;
     font-size: 22px;
 }
@@ -39,6 +43,8 @@
     font-size: 300%;
     font-family: sans-serif;
     margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 20px;
     color:rgb(255, 255, 255);
     width:min-content;
 
