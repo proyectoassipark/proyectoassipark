@@ -11,7 +11,26 @@
     background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
 }
 
-#addparqueaderos {
+#del_parqueadero {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#add_parqueaderos {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#sync_parqueadero {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+#mod_residentes {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#add_residentes {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#sync_residentes {
     background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
 }
 #barra_de_navegacion{
