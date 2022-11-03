@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right, #4e0e83, #1c92d2); 
+}
+
+#logo{
+    margin: 2rem;
+    margin-top: 2rem;
+}
+
+#logo img{
+    width: 30%;
+
+}
+.barra_de_navegacion{
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 12PX;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:white;
+}
+
+#login{
+    text-align: center;
+    margin-top: 10%;
+    
+}
+#login input{
+    font-size: 156%;
+    text-align: center;
+}
+
+#login button{
+    font-size: 24px;
+}

@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#home{
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+
+#parqueaderos {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#del_parqueadero {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#add_parqueaderos {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#sync_parqueadero {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+#mod_residentes {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#add_residentes {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+
+#sync_residentes {
+    background: linear-gradient(to right, #000000 35%, #4e0e83 60%);
+}
+#barra_de_navegacion{
+    margin-top: 0%;
+    margin-left: 0%;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    text-align: left;
+}
+.nav li a{
+    background-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    padding: 0px 140px;
+    padding-left: 50px;
+    display: block;
+    font-size: 25px;
+}
+.nav li a:hover{
+    color: #b908ff;
+}
+#barra_de_navegacion:hover{
+    color: #b908ff;
+}
+.nav li ul{
+    display: none;
+    position:relative;
+    min-width: 140px;
+}
+.nav li:hover > ul{
+    display:block;
+}
+.titulo {
+    font-size: 300%;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    color:rgb(255, 255, 255);
+    width:min-content;
+
+}
+
+#barra{
+    float: left;
+    width:max-content;
+    height: min-content;
+}
+
+
+.img {
+    float: right;
+    margin-right: 100px;
+    margin-top: 5%;
+    size: 100%;
+
+}
+.img img{
+    width: 100%
+}

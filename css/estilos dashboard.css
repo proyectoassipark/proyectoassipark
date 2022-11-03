@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(to right, #4e0e83, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#logo{
+    margin: 2rem;
+    margin-top: 2rem;
+}
+
+#logo img{
+    width: 30%;
+
+}
+.barra_de_navegacion{
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 12PX;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:white;
+}
+#imagen {
+    float: right;
+    margin: 6%;
+    margin-top: 5%;
+}
+
+#imagen img{
+    width: 100%;
+}
+
+.parrafos{
+    float:left;
+    margin-top: 12%;
+    margin-left: 2rem;
+    text-align: left;
+    font-size: 25px;
+    color:white;
+    font-family:'Times New Roman'
+}
+
+.negrilla{
+    font-size: 120%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pfunciones{
+    text-align: center;
+    margin: 25%;
+    margin-top: 100px;
+}
+
